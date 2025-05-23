@@ -1,0 +1,66 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:;Rajani;; ;
+FN: Rajani
+ORG:Lavanya  Beauty Parlour
+COMPANY:Lavanya  Beauty Parlour
+TITLE:Beautician
+
+ADR;CHARSET=UTF-8;TYPE=WORK:;;Bheemavari palem;Bapatla;A.P;522101;India
+TEL;TYPE=Work,pref:+918897377192
+TEL;CELL;TYPE=Mobile,VOICE:
+TEL;TYPE=WORK,VOICE:
+
+TEL;TYPE=Work,Fax:
+TEL;TYPE=Home,VOICE:
+TEL;TYPE=sms:
+URL;TYPE=Messenger:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:
+URL;TYPE=Digital Business Card:
+
+
+
+URL;TYPE=Location:https://maps.app.goo.gl/3usenbot8QD4ibuV8?g_st=ac
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100337080
+URL;TYPE=Website:
+
+URL;TYPE=Calendar:
+URL;TYPE=WhatsApp:
+URL;TYPE=WeChat:
+
+
+
+PHOTO;ENCODING=b:{
+  "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot GET /api/createAvatar/Rajan/</pre>\n</body>\n</html>\n",
+  "status": 404,
+  "statusText": "",
+  "headers": {
+    "content-length": "162",
+    "content-type": "text/html; charset=utf-8"
+  },
+  "config": {
+    "url": "https://pay4zip.com/api/createAvatar/Rajan/",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*"
+    },
+    "transformRequest": [
+      null
+    ],
+    "transformResponse": [
+      null
+    ],
+    "timeout": 0,
+    "withCredentials": true,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1
+  },
+  "request": {}
+}
+NOTE;CHARSET=UTF-8:
+
+END:VCARD
